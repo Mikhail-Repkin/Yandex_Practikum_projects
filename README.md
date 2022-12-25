@@ -2,7 +2,7 @@
 # 1. [Предсказание температуры стали]()
 ## Описание: 
 Построена модель, предсказывающая температуру стали для технологов. Это поможет металлургическому комбинату оптимизировать производственные расходы на этапе обработки стали.
-## Инструменты и библиотеки:
+### Инструменты и библиотеки:
 ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=130754)
 ![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=NumPy&logoColor=3366C5)

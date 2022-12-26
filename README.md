@@ -3,7 +3,7 @@
 ### Описание: 
 Построена модель, предсказывающая температуру стали для технологов. Это поможет металлургическому комбинату оптимизировать производственные расходы на этапе обработки стали.
 ### Инструменты и библиотеки:
-![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python)
+![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=130754)
 ![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=NumPy&logoColor=3366C5)
 ![scikit-learn](https://img.shields.io/badge/-scikit-white?style=plastic&logo=scikit-learn)

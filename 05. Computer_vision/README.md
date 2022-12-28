@@ -7,6 +7,8 @@
 ![LightGBM](https://img.shields.io/badge/-LightGBM-white?style=flat&logo=LightGBM)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-white?style=flat&logo=CatBoost)
 ![scikit-learn](https://img.shields.io/badge/-scikit-white?style=flat&logo=scikit-learn)
+![ResNet](https://img.shields.io/badge/-ResNet-white?style=flat&logo=ResNet)
+
 ## Описание проекта:
 Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей.
 
